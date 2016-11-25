@@ -1,0 +1,2 @@
+https://ionicframework.com/docs/v2/native/barcode-scanner/
+https://github.com/phonegap/phonegap-plugin-barcodescanner

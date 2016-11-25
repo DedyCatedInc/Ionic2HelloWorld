@@ -1,0 +1,27 @@
+.scroll {
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  /* Set z-index to 0 as it will be on a layer below the contact form */
+  z-index: 0;
+}
+
+#mapform {
+  background: black;
+  color: white;
+  height: auto;
+  margin: 30px auto 0;
+  /* Set the opacity for a slightly transparent Google Form */
+  opacity: .45;
+  padding: 10px;
+  position: relative;
+  width: 300px;
+  /* The z-index should be higher than Google Maps */
+  z-index: 1;
+}

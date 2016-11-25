@@ -1,0 +1,4 @@
+References:
+http://ionicframework.com/docs/v2/native/diagnostic/
+https://ionicframework.com/docs/v2/native/google-maps/
+http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/
